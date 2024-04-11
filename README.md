@@ -16,7 +16,6 @@ and also in your ide make sure that mongodb can be used. Vscode for example has 
 ## Installation
 ## Clone the repository:
 
-git clone https://github.com/piran777/Full-Stack-Blogging-Platform.git
 
 ## Navigate to the project directory:
 
